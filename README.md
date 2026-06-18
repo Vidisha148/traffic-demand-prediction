@@ -33,4 +33,37 @@ This project predicts urban traffic demand using machine learning techniques and
 - Rainy conditions were associated with higher traffic demand.
 
 
+## Visualizations
+
+### Actual vs Predicted Traffic Demand
+
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### Feature Importance Analysis
+
+![Feature Importance](images/feature_importance.png)
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
+
+## Tech Stack
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Joblib
+
+
+## Future Scope
+
+- Dynamic traffic signal control
+- Emergency vehicle prioritization
+- Real-time traffic demand forecasting
+- Integration with smart city traffic management systems
+- AI-assisted adaptive signal timing
+
 
