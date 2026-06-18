@@ -1,0 +1,11 @@
+MODEL COMPARISON
+------------------------------
+Linear Regression R2: 0.124
+Decision Tree R2: 0.7701
+Random Forest R2: 0.862
+
+TRAFFIC INSIGHTS
+------------------------------
+Peak Traffic Hour: 11:00 - 12:00
+Most Congested Road Type: Highway
+Most Congested Weather Condition: Rainy

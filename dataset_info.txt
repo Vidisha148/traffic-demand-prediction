@@ -1,0 +1,12 @@
+Dataset Information
+
+The dataset used during development originated from a Bengaluru traffic analytics challenge dataset.
+
+Due to dataset licensing and redistribution considerations, the dataset is not included in this repository.
+
+The project can be reproduced using a similar urban traffic demand dataset containing:
+- Location information
+- Timestamp data
+- Road type
+- Weather conditions
+- Traffic demand measurements
